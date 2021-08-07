@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+### Welcome to Chris Bishop's Git Pages Draw.io Diagrams Repository!
 
-You can use the [editor on GitHub](https://github.com/chris-bishop/drawio-diagrams/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## **NOTE:** Diagrams will be listed here in chronological order by date of initial commit. I am intending to keep this Diagram Wiki as Minimalist as possible in favor of supporting my dev efforts on my personal blog and professional portfolio site **[AssumeTheRole.com](https://assumetherole.com)**! If you landed here by way of my website, fantastic! If your journey has otherwise been "a long strange trip, indeed..." - after you are finished here, please take a few moments to nav on over to **[https://assumetherole.com/](https://assumetherole.com/)** - and see what other developer resources I may have available to help you continue to change the world through innovation!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Please feel free to fork my shared diagrams in to your own personal **[draw.io](https://draw.io/)** account, modify, and re-share to your hearts content! My goal is only to share my experiences with the OpenSource and Developer Communities in hopes they may at least save folks from having to re-invent the wheel, or at best inspire the next big innovation! 🙂
 
-### Markdown
+----
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## **Available Diagrams** _(listed in descending order by date of initial commit):_
 
-```markdown
-Syntax highlighted code block
+- **[20210807 - Sample AWS Solutions Workflow Diagram](https://github.com/chris-bishop/drawio-diagrams/blob/main/Sample%20AWS%20Solutions%20Workflow%20Diagram)**
 
-# Header 1
-## Header 2
-### Header 3
+----
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chris-bishop/drawio-diagrams/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+_"Everything is relative, and Perspective is EVERYTHING!"_ - **[@chris-bishop](https://github.com/chris-bishop)**
